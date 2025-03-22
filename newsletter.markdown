@@ -2,4 +2,4 @@
 layout: page
 ---
 
-{% include newsletter.html %}
+{% include footer.html %}

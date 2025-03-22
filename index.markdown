@@ -2,4 +2,4 @@
 layout: home
 ---
 
-{% include ads.html %}
+{% include footer.html %}
