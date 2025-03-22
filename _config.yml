@@ -1,20 +1,19 @@
-title: riggraz
-email: riccardo.graziosi97@gmail.com
+title: wither.blog
 description: "thoughts on programming, digital wellbeing, ai"
 baseurl: ""
-url: "https://riggraz.dev"
-github_username: riggraz
+url: "https://wither.blog"
+github_username: wither
 
 permalink: /:slug.html
 
 favicon: "favicon.png"
-goat_counter: "riggraz" # put your GoatCounter name if you want to use GoatCounter analytics
+goat_counter: "wither" # put your GoatCounter name if you want to use GoatCounter analytics
 
 # Build settings
 remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "light"
+  appearance: "dark"
   back_home_text: "← back" # customize text for homepage link in post layout
   date_format: "%Y-%m" # customize how date is formatted in post list
   show_description: true # show blog description in home page
