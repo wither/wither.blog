@@ -1,7 +1,7 @@
 title: wither.blog
-description: "thoughts on programming, digital wellbeing, ai"
+description: "Binary Exploitation, C Development, CTFs, and More."
 baseurl: ""
-url: "https://wither.blog"
+url: "https://wither.blog/"
 github_username: wither
 
 permalink: /:slug.html
@@ -13,8 +13,8 @@ goat_counter: "wither" # put your GoatCounter name if you want to use GoatCounte
 remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "dark"
-  back_home_text: "← back" # customize text for homepage link in post layout
+  appearance: "light"
+  back_home_text: "../" # customize text for homepage link in post layout
   date_format: "%Y-%m" # customize how date is formatted in post list
   show_description: true # show blog description in home page
   lowercase_titles: true
