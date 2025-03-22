@@ -1,12 +1,12 @@
 title: wither.blog
-description: "Binary Exploitation, C Development, CTFs, and More."
+description: "binary exploitation, C development, CTFs, and more."
 baseurl: ""
 url: "https://wither.blog/"
 github_username: wither
 
 permalink: /:slug.html
 
-favicon: "favicon.png"
+#favicon: "favicon.png"
 goat_counter: "wither" # put your GoatCounter name if you want to use GoatCounter analytics
 
 # Build settings
