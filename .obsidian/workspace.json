@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "92617e500f8ca546",
+    "type": "split",
+    "children": [
+      {
+        "id": "d04c06a362b91745",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e428803e198fd2bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-04-05-PicoCTF-PIE-TIME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-05-PicoCTF-PIE-TIME"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d0f673c76983bee",
+    "type": "split",
+    "children": [
+      {
+        "id": "fec9219e8e1e62bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab88657873bc4601",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "921212f62da70d1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bdd4c0aae2e6e9bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "right": {
+    "id": "70ef8b4dfccefa31",
+    "type": "split",
+    "children": [
+      {
+        "id": "64d98f77fd298cf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41ea4915c52fc800",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2025-04-05-PicoCTF.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-04-05-PicoCTF"
+            }
+          },
+          {
+            "id": "f0343da1ee4682c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2025-04-05-PicoCTF.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-04-05-PicoCTF"
+            }
+          },
+          {
+            "id": "49d81a1611a953b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f6e8c44bdb050d1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2025-04-05-PicoCTF.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-04-05-PicoCTF"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e428803e198fd2bf",
+  "lastOpenFiles": [
+    "_media/Pasted image 20250406002216.png",
+    "_media/Pasted image 20250406001846.png",
+    "_media/Pasted image 20250406001625.png",
+    "_media/Pasted image 20250406001558.png",
+    "_media/Pasted image 20250406001038.png",
+    "_media",
+    "_media/Pasted image 20250405235616.png",
+    "_media/Pasted image 20250405234930.png",
+    "_media/Pasted image 20250405234720.png",
+    "_media/Pasted image 20250405234617.png",
+    "_posts/2025-03-22-intro.md",
+    "_posts/2025-04-05-PicoCTF-PIE-TIME.md"
+  ]
+}
