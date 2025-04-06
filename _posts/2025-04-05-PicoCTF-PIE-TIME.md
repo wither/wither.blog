@@ -7,7 +7,6 @@ tags:
   - Binary-Exploitation
   - PicoCTF-2025
 ---
-# PicoCTF PIE TIME Writeup
 ## Overview
 
 **Challenge Author**
@@ -42,6 +41,8 @@ vuln                                      100%[=================================
 
 ### Create a local flag.txt
 
+
+
 ```bash
 echo "flag{wither}" > flag.txt
 cat flag.txt 
@@ -75,7 +76,7 @@ checksec --file=vuln --format=json --extended | jq .
 
 ### Run
 
-![[_media/Pasted image 20250405235616.png]]
+![[../_media/Pasted_image_20250405235616.png]]
 
 
 ### Disassembly
@@ -85,18 +86,20 @@ objdump -M intel,x86-64 -d ./vuln --disassembler-color=extended -l
 ```
 
 main 
-![[_media/Pasted image 20250405234617.png]]
+![[Pasted_image_20250405234617.png]]
 
 win
-![[_media/Pasted image 20250405234720.png]]
+![[../_media/Pasted_image_20250405234720.png]]
 
 ### Calculating the offset
 
-![[_media/Pasted image 20250405234930.png]]
+
+
+![[../_media/Pasted_image_20250405234930.png]]
 
 ### Using the offset to leak the address of win()
 
-![[_media/Pasted image 20250406001846.png]]
+![[../_media/Pasted_image_20250406001846.png]]
 
 ### Exploiting on remote server
 
@@ -104,13 +107,23 @@ win
 nc rescued-float.picoctf.net 52088
 ```
 
-![[_media/Pasted image 20250406002216.png]]
+![[../_media/Pasted_image_20250406002216.png]]
+
+## Automating the Exploitation
+
+## Local
+
+
+
+## Remote
+
+
 ## Key Takeaways
+
 ## Resources
 - [pwntools Documentation](https://docs.pwntools.com/en/latest/)
+
 ## Final Thoughts
 
 
-
----
 
