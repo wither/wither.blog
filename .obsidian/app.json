@@ -4,5 +4,5 @@
   "attachmentFolderPath": "_media",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "absolute"
 }

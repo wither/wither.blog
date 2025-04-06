@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "2025-04-05-PicoCTF-PIE-TIME"
             }
-          },
-          {
-            "id": "019aeebbc9e74240",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-04-05-PicoCTF-PIE-TIME.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-05-PicoCTF-PIE-TIME"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,20 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "019aeebbc9e74240",
+  "active": "69e98bd5620e768c",
   "lastOpenFiles": [
-    "_media/Pasted_image_20250405234930.png",
-    "_media/Pasted_image_20250405234617.png",
+    "_media/8743292527c3cee97a09322666874b1a.png",
     "_posts/2025-04-05-PicoCTF-PIE-TIME.md",
+    "_media/cbfab8fe976f58cf1a500ca4178a5bef.png",
     "_media/Pasted_image_20250406025026.png",
-    "_media/Pasted_image_20250406002216.png",
-    "_media/Pasted_image_20250406001846.png",
     "_media/Pasted_image_20250406001625.png",
-    "_media/Pasted_image_20250406001558.png",
     "_media/Pasted_image_20250406001038.png",
+    "_media/941b8ca926385d0b7ca8eca435228d8d.png",
+    "_media/a42b6e271bfe17b3c0389187063fa7ba.png",
+    "_media/35c0c76089ffadaa628a5039b375f022.png",
+    "_media/Pasted_image_20250406001558.png",
     "_media",
-    "_media/Pasted_image_20250405235616.png",
-    "_media/Pasted_image_20250405234720.png",
+    "_media/397d290bcce0e054e2068909efb57d91.png",
     "_posts/2025-03-22-intro.md"
   ]
 }

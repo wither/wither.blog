@@ -76,7 +76,7 @@ checksec --file=vuln --format=json --extended | jq .
 
 ### Run
 
-![](../_media/Pasted_image_20250405235616.png)
+![](../_media/a42b6e271bfe17b3c0389187063fa7ba.png)
 
 
 ### Disassembly
@@ -86,20 +86,20 @@ objdump -M intel,x86-64 -d ./vuln --disassembler-color=extended -l
 ```
 
 main 
-![](Pasted_image_20250405234617.png)
+![](../_media/8743292527c3cee97a09322666874b1a.png)
 
 win
-![](../_media/Pasted_image_20250405234720.png)
+![](../_media/397d290bcce0e054e2068909efb57d91.png)
 
 ### Calculating the offset
 
 
 
-![](../_media/Pasted_image_20250405234930.png)
+![](../_media/cbfab8fe976f58cf1a500ca4178a5bef.png)
 
 ### Using the offset to leak the address of win()
 
-![](../_media/Pasted_image_20250406001846.png)
+![](../_media/941b8ca926385d0b7ca8eca435228d8d.png)
 
 ### Exploiting on remote server
 
@@ -107,7 +107,7 @@ win
 nc rescued-float.picoctf.net 52088
 ```
 
-![](../_media/Pasted_image_20250406002216.png)
+![](../_media/35c0c76089ffadaa628a5039b375f022.png)
 
 ## Automating the Exploitation
 
